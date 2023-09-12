@@ -5,8 +5,6 @@ import {
   ViewChild,
 } from '@angular/core';
 import { CommonModule } from '@angular/common';
-//import '@shoelace-style/shoelace';
-import '@shoelace-style/shoelace/dist/components/drawer/drawer';
 import { SlDrawer } from '@shoelace-style/shoelace';
 
 @Component({
